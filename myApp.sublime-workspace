@@ -1,0 +1,418 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Con",
+				"CONSOLIDADO"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scss/ionic.app.scss",
+			"settings":
+			{
+				"buffer_size": 845,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 376.0,
+		"selected_items":
+		[
+			[
+				"syntax",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"iden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"Tes",
+				"Teste: Executar Plugin"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 194.0,
+		"history":
+		[
+			"view.run_command('indent_xml')",
+			"view.run_command('baseindent')",
+			"view.run_command('indentxml')",
+			"view.run_command('tstplugin')",
+			"view.run_command('TestePlugin')",
+			"e = x.begin_edit()",
+			"x = window.new_file()",
+			"clear",
+			"e = x.begin_edit()",
+			"x = window.new_file()",
+			"view.run_command('tstplugin')",
+			"view.run_command('example')",
+			"view.run_command('tstplugin')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"view.run_command('example')",
+			"view.run_command('tstplugin')",
+			"view.run_command('example')",
+			"view.run_command('Example')",
+			"view.run_command('Example');",
+			"view",
+			"view.run_command('example')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Hitachi HDD/Workspace/Projetos/myApp/www/index.html",
+		"/Volumes/Hitachi HDD/Workspace/Projetos/myApp/scss/ionic.app.scss",
+		"/Volumes/Hitachi HDD/Workspace/Projetos/myApp/www/templates/tabs.html",
+		"/Volumes/Hitachi HDD/Workspace/Projetos/myApp/npm-debug.log",
+		"/Volumes/C/Python34/Scripts/django-admin.py",
+		"/Volumes/Hitachi HDD/CA/_xog_client/xml/costPlan_write.xml",
+		"/Volumes/Hitachi HDD/CA/_xog_client/xml/budgetPlan_write.xml",
+		"/Volumes/Hitachi HDD/OS/Reunião sobre o OS Estruturante",
+		"/Volumes/C/sites/ocebolao/ocebolao/urls.py",
+		"/Users/andreluzz/Desktop/proj_req",
+		"/Volumes/C/Python34/Lib/site-packages/Django-1.8-py3.4.egg/django/contrib/admin/templates/admin/base.html",
+		"/Volumes/Hitachi HDD/CA/_xog_client/xml/imp_transactions_write.xml",
+		"/Volumes/Hitachi HDD/CA/_xog_client/xsd/nikuxog_inboundTransaction.xsd",
+		"/Volumes/Hitachi HDD/CA/_xog_client/xsd/nikuxog_transaction.xsd",
+		"/Volumes/Hitachi HDD/CA/_xog_client/xsd/nikuxog_commonTransaction.xsd",
+		"/Volumes/C/sites/ocebolao/bolao/migrations/0001_initial.py",
+		"/Volumes/Hitachi HDD/CA/BTG_Pactual/Reunião 14-04-14",
+		"/Volumes/Hitachi HDD/CA/DataPrev/Reunião_11-04-2014",
+		"/Volumes/Hitachi HDD/CA/_xog_client/xml/wipClass_write.xml",
+		"/Volumes/Hitachi HDD/CA/_xog_client/xml/wipClass_read.xml",
+		"/Volumes/Hitachi HDD/CA/_xog_client/xml/transactionclass_write.xml",
+		"/Users/andreluzz/Desktop/tst.xml",
+		"/Volumes/Hitachi HDD/CA/_xog_client/bin/gel_script_text.xml",
+		"/Volumes/Hitachi HDD/CA/GPRODE/Outros/Mudanças no processo de EPCP.txt",
+		"/Volumes/Hitachi HDD/CA/_xog_client/bin/oi_dev.properties",
+		"/Volumes/Hitachi HDD/CA/_xog_client/bin/version.properties",
+		"/Volumes/Hitachi HDD/CA/_xog_client/bin/test.properties",
+		"/Users/andreluzz/Desktop/centro_trabalho_sap.sql",
+		"/Users/andreluzz/Desktop/teste.xml",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/TestePlugin/plugin.py",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/Indent XML/Default (OSX).sublime-keymap",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/ClarityPPM/clarity_ppm.py",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/TestePlugin/Main.sublime-menu",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/TestePlugin/Default.sublime-commands",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/TestePlugin/Default (Windows).sublime-keymap",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/TestePlugin/Default (Linux).sublime-keymap",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/TestePlugin/Default (OSX).sublime-keymap",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/TestePlugin/TestePlugin.py",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/ClarityPPM/Main.sublime-menu",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/ClarityPPM/Default.sublime-commands",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/ClarityPPM/Default (Windows).sublime-keymap",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/ClarityPPM/Default (OSX).sublime-keymap",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/ClarityPPM/ClarityPPM.sublime-settings",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/ClarityPPM/Default (Linux).sublime-keymap",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/TestePlugin/TestePlugin.sublime-settings",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/User/ClarityPPM.sublime-settings",
+		"/Volumes/Hitachi HDD/CA/_xog_client/bin/xog.sh",
+		"/Users/andreluzz/Desktop/Program Hierarchy NSQL.txt",
+		"/Volumes/Clarity 13.3 Temp/last_output.xml",
+		"/Volumes/Clarity 13.3 Temp/csk_documentReviewProcess.xml",
+		"/Volumes/Clarity 13.3 Temp/teste_proc.xml",
+		"/Volumes/Clarity 13.3 Temp/teste_output.xml",
+		"/Volumes/Clarity 13.3 Temp/proc.xml",
+		"/Volumes/Clarity 13.3 Temp/proc_output.xml",
+		"/Volumes/Clarity 13.3 Temp/output.xml",
+		"/Volumes/Clarity 13.3 Temp/proc_read.xml",
+		"/Volumes/Clarity 13.3 Temp/csk_documentReviewProcess_out.xml",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/Prefixr/Prefixr.py",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/TstPlugin/TstPlugin.py",
+		"/Users/andreluzz/Library/Application Support/Sublime Text 3/Packages/User/Teste_plugin/teste_plugin.py",
+		"/Volumes/Hitachi HDD/Temp/DB_Draft.sql",
+		"/Volumes/Hitachi HDD/Temp/DB_Draft"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TransactionsType",
+			"- ",
+			" e ",
+			"e ",
+			", ",
+			"Especificação",
+			", ",
+			"	",
+			"expenseType",
+			"group",
+			"snapshot",
+			"                                                          ",
+			"	",
+			" ",
+			"?",
+			"\"",
+			"petr_",
+			"Gerenciamento",
+			"          ",
+			"            ",
+			"\\n",
+			"shortdesc",
+			"L",
+			"l",
+			"@",
+			"@where:param:xml:integer:/data/id/@value@",
+			"hierarquical",
+			"hg_has_children",
+			"VALUE",
+			"NAME",
+			"descricao",
+			"tsk",
+			".decode('utf-8')",
+			"', '",
+			"ClarityPPM",
+			"newWindow",
+			"e",
+			">>> ",
+			"NAME",
+			"HG_ROW_ID",
+			"hgquery",
+			"emoticonIM",
+			"emoticonBJ",
+			"emoticon",
+			"<Noti.+\\n.+\\n.+\\n.+\\n.+Notifications>",
+			"<Assignees/>",
+			"<Notifications",
+			"<Notifications notifyOwner=\"false\">",
+			"<Noti.+\\n.+\\n.+\\n.+\\n.+Notifications>",
+			"<.+\\n.+\\n+.+\\n+.+\\n+.+Notifications>",
+			"<.+\\n",
+			"<assig",
+			"<Notifications.+\\n.+\\n.+\\n.+\\n.+>",
+			"<Notifications.+\\n.+\\n.+\\n.+</Notifications>",
+			"<Assignees/>",
+			"ActionItem",
+			"aiObjectName=\"ActionItem",
+			"thisProject",
+			"<AIActions>",
+			"<Assignees>",
+			"\"Manager",
+			"Manager",
+			"<Assignees>",
+			"<Assignees",
+			"ASSIGNEES",
+			"BPM_DEF_ASSIGNEES",
+			" ",
+			",",
+			" ",
+			",",
+			"urllib2",
+			"/u01/oracle/oradata/clarity"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"",
+			"urllib"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scss/ionic.app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								651,
+								651
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "myApp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
